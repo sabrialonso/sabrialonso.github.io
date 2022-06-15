@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: Abu Dhabi.JPG
+image: Finland 4.JPEG
 ---
 
 # Millennial
