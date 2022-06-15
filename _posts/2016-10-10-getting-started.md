@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: Finland 4.JPEG
+image: Budapest.JPG
 ---
 
 # Millennial
